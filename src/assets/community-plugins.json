@@ -223,5 +223,18 @@
       "downloadUrl": "https://github.com/AshrafByte/sp-timesheet/releases/download/v2.0.1/sp-timesheet-v2.0.1.zip",
       "sha256": "627d56200730436d0cc70586422ad30512d49da80c041e4e6eb1cf405f4471d0"
     }
+  },
+  {
+    "name": "Milestone",
+    "shortDescription": "Countdowns, anniversaries, birthdays and festivals, with optional lunar calendar conversion, festival presets and cross-device sync.",
+    "url": "https://github.com/calmpunct/sp-milestone",
+    "author": "calmpunct",
+    "authorUrl": "https://github.com/calmpunct",
+    "id": "milestone",
+    "release": {
+      "version": "1.3.0",
+      "downloadUrl": "https://github.com/calmpunct/sp-milestone/releases/download/v1.3.0/sp-milestone-v1.3.0.zip",
+      "sha256": "5defc35e06b66987ce68e66eedd721db0dc0e5c390afbb2550e0732c17afa4a8"
+    }
   }
 ]
